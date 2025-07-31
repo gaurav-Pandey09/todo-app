@@ -1,7 +1,5 @@
 # todoapp-vue
 
-## [Try it](https://brtsiev-kazbek.github.io/todoapp-vue/)
-
 ## My training project
 
 ## Project setup
